@@ -1,0 +1,11 @@
+C:\Users\sony\Desktop\GDIPens\bin\Debug\GdiPens.exe
+C:\Users\sony\Desktop\GDIPens\bin\Debug\GdiPens.pdb
+C:\Users\sony\Desktop\GDIPens\bin\Debug\GdiPens.xml
+C:\Users\sony\Desktop\GDIPens\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sony\Desktop\GDIPens\obj\Debug\GdiPens.frmDemo.resources
+C:\Users\sony\Desktop\GDIPens\obj\Debug\GdiPens.Resources.resources
+C:\Users\sony\Desktop\GDIPens\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\sony\Desktop\GDIPens\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\sony\Desktop\GDIPens\obj\Debug\GdiPens.exe
+C:\Users\sony\Desktop\GDIPens\obj\Debug\GdiPens.xml
+C:\Users\sony\Desktop\GDIPens\obj\Debug\GdiPens.pdb
